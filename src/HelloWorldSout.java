@@ -18,6 +18,7 @@ public class HelloWorldSout {
         System.out.println("Hello World");
         System.out.println("Just a text");
         System.out.println("Hello World 2");
+        System.out.println("Hello");
 
         new HelloWorldSout().printOneToTen();
 
